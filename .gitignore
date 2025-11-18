@@ -1,0 +1,29 @@
+# Fichiers temporaires
+*.tmp
+*.log
+*.swp
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Fichiers Python (si jamais utilisés)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
